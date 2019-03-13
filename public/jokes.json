@@ -1,0 +1,29 @@
+{
+  "jokeList": "jokes",
+  "jokes": [
+    {
+      "id": 1,
+      "question": "Did you hear about the restaurant on the moon?",
+      "answer": "Great food, no atmosphere.",
+      "votes": 0
+    },
+    {
+      "id": 2,
+      "question": "What do you call a fake noodle",
+      "answer": "An Impasta.",
+      "votes": 0
+    },
+    {
+      "id": 3,
+      "question": "How many apples grow on a tree?",
+      "answer": "All of them.",
+      "votes": 0
+    },
+    {
+      "id": 4,
+      "question": "Want to hear a joke about paper?",
+      "answer": "Nevermind it's tearable.",
+      "votes": 0
+    }
+  ]
+}
